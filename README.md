@@ -8,7 +8,7 @@ YII Behavior
 @param string $modelName название модели - имя массива принимаемого от формы
 
 
-Подключение к модели:
+Подключение к контроллеру:
 
     public function behaviors() {
         return array(
